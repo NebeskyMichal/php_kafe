@@ -1,0 +1,18 @@
+main{
+    width: 70%;
+}
+
+section{
+float: right;
+width: 30%;
+}
+
+.log_form{
+    width: 100%;
+}
+
+.log_form form{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
